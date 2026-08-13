@@ -11,9 +11,28 @@
 [![Zero-Trust](https://img.shields.io/badge/Authorization-Zanzibar%20ReBAC-00ACC1)](lib/rebac-engine.ts)
 [![Guardrails](https://img.shields.io/badge/Security-Model%20Armor-E53935)](lib/model-armor.ts)
 [![Next.js 15](https://img.shields.io/badge/Frontend-Next.js%2015%20App%20Router-000000?logo=next.js)](https://nextjs.org)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-3--Minute%20Walkthrough-FF0000?logo=youtube)](docs/DEMO_VIDEO_SCRIPT.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+<br/>
+
+<img src="assets/thumbnail.jpg" alt="SovereignMesh Control Plane" width="100%" style="border-radius: 10px;" />
+
 </div>
+
+---
+
+## 🎬 3-Minute Demo Video & Storyboard
+
+A complete scene-by-scene demo video storyboard with Veo and Gemini generation prompts is documented at [docs/DEMO_VIDEO_SCRIPT.md](docs/DEMO_VIDEO_SCRIPT.md).
+
+```
+[0:00 - 0:30] Phase 1: The Crisis of Enterprise AI Blast Radiuses
+[0:30 - 1:15] Phase 2: SovereignMesh Architecture & Google Zanzibar ReBAC
+[1:15 - 2:05] Phase 3: Live Attack Demo — Tampered Invoice & Adversarial Red Team
+[2:05 - 2:40] Phase 4: Legitimate Clearance & SHA-256 Decision Lock
+[2:40 - 3:00] Phase 5: Conclusion & Production Enterprise Impact
+```
 
 ---
 
@@ -110,6 +129,10 @@ Open [http://localhost:3000](http://localhost:3000) to access the SovereignMesh 
 sovereign-mesh/
 ├── AGENTS.md                          # Enterprise Fleet governance contract & agent manifest
 ├── package.json                       # Next.js 15 App Router & dependencies
+├── assets/
+│   └── thumbnail.jpg                  # 16:9 4K Control Plane Thumbnail
+├── docs/
+│   └── DEMO_VIDEO_SCRIPT.md           # 3-Minute Demo Video Script & Storyboard
 ├── app/
 │   ├── layout.tsx                     # Global typography & root layout
 │   ├── page.tsx                       # Master Control Plane Dashboard
